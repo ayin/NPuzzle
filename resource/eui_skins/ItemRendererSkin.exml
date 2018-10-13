@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="skins.ItemRendererSkin" states="up,down,disabled" minHeight="50" minWidth="100"
+        xmlns:e="http://ns.egret.com/eui">
+    <e:Label id="labelDisplay" top="2" bottom="2" left="2" right="2" size="40" fontFamily="Tahoma" background="true"
+             backgroundColor="{data.color}" visible="{data.visible}" textColor="0x888888" text="{data.info}"
+             verticalAlign="middle" textAlign="center" />
+</e:Skin>

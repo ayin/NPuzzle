@@ -1,0 +1,65 @@
+{
+	"groups": [
+		{
+			"keys": "selected_png,button_down_png,button_up_png,Question_png,backward_png,restart_png,close_png,border_png,header_png,text_zh-CN_json,text_en_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"name": "Question_png",
+			"type": "image",
+			"url": "assets/Question.png"
+		},
+		{
+			"name": "backward_png",
+			"type": "image",
+			"url": "assets/backward.png"
+		},
+		{
+			"name": "restart_png",
+			"type": "image",
+			"url": "assets/restart.png"
+		},
+		{
+			"name": "close_png",
+			"type": "image",
+			"url": "assets/close.png"
+		},
+		{
+			"name": "border_png",
+			"type": "image",
+			"url": "assets/border.png"
+		},
+		{
+			"name": "header_png",
+			"type": "image",
+			"url": "assets/header.png"
+		},
+		{
+			"name": "text_zh-CN_json",
+			"type": "json",
+			"url": "text_zh-CN.json"
+		},
+		{
+			"name": "text_en_json",
+			"type": "json",
+			"url": "text_en.json"
+		}
+	]
+}

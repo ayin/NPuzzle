@@ -1,0 +1,19 @@
+{
+    "app_name": "PUSH PUSH",
+    "menu_number": "Numbers",
+    "menu_chinese_poet": "Chinese Poet",
+    "menu_JUE5": "5 X 4",
+    "menu_JUE7": "7 X 4",
+    "menu_LU5": "5 X 8",
+    "menu_LU7": "7 X 8",
+    "menu_alphabet": "Alphabet",
+    "menu_lowercase": "Lower Case",
+    "menu_uppercase": "Upper Case",
+    "menu_mixed": "Lower And Upper",
+    "menu_fixed": "With Fixed",
+    "description": "Introduction",
+    "detail": "push L/R/U/D and make it as below",
+    "time": "TIME: ",
+    "step": "STEP: ",
+    "suc": "SUCCESS"
+}

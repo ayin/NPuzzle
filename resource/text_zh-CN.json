@@ -1,0 +1,19 @@
+{
+    "app_name": "智力推盘",
+    "menu_number": "数字华容道",
+    "menu_chinese_poet": "古诗词推盘",
+    "menu_JUE5": "五言绝句",
+    "menu_JUE7": "七言绝句",
+    "menu_LU5": "五言律诗",
+    "menu_LU7": "七言律诗",
+    "menu_alphabet": "英语字母",
+    "menu_lowercase": "小写字母",
+    "menu_uppercase": "大小字母",
+    "menu_mixed": "大小写混合",
+    "menu_fixed": "异型数字推盘",
+    "description": "游戏介绍",
+    "detail": "通过上下左右的移动，恢复成如下图形",
+    "time": "用时: ",
+    "step": "步数: ",
+    "suc": "恭喜完成"
+}

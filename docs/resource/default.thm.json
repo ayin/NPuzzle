@@ -1,0 +1,18 @@
+{
+	"skins": {
+		"eui.Button": "resource/eui_skins/ButtonSkin.exml",
+		"eui.ItemRenderer": "resource/eui_skins/ItemRendererSkin.exml",
+		"BtnIcon": "resource/skins/BtnIconSkin.exml",
+		"BtnBack": "resource/skins/BtnBackSkin.exml",
+		"Dialog": "resource/skins/DialogSkin.exml"
+	},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/eui_skins/ButtonSkin.exml",
+		"resource/eui_skins/ItemRendererSkin.exml",
+		"resource/skins/BtnBackSkin.exml",
+		"resource/skins/BtnIconSkin.exml",
+		"resource/skins/DialogSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}
